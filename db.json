@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Marco Rutherford",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Awesome Cotton Computer",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Soft Bike",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=5461712228581376",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=870512498573312",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=161397824552960",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=2524408121917440",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=5965523353337856",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/01DQbD/640/480",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=4210208704299008",
+      "id": 11
+    }
+  ]
+}
